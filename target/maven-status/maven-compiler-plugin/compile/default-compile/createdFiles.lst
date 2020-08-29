@@ -1,0 +1,7 @@
+bungee\vaccum\module\adminutils\commands\BungeePlugins.class
+bungee\vaccum\module\adminutils\commands\AdminChat.class
+bungee\vaccum\module\adminutils\commands\FindPlayer.class
+bungee\vaccum\module\adminutils\commands\Glist.class
+bungee\vaccum\module\adminutils\commands\IP.class
+bungee\vaccum\module\adminutils\commands\JumpTo.class
+bungee\vaccum\module\adminutils\AdminUtils.class

@@ -1,0 +1,26 @@
+name: module-adminutils
+version: ${project.version}
+main: bungee.vaccum.module.adminutils.AdminUtils
+authors: [VaccumDE, Prixix]
+depend: [vBungeeAPI]
+commands:
+  bungeeplugins:
+    description: Sehe alle Plugins des BungeeCord ein
+    permission: vaccum.see.bungeeplugins
+  find:
+    description: Finde Spieler auf dem Netzwerk
+    permission: vaccum.find.others
+  adminchat:
+    description: Schreibe Nachrichten zwischen Admins und Owner
+    permission: vaccum.see.adminchat
+    aliases: [ac]
+  ip:
+    description: Sehe die IP-Adresse eines Spielers ein
+    permission: vaccum.see.ip
+  glist:
+    description: Sehe die globale Spieler Liste ein
+  list:
+    description: Sehe die globale Spieler Liste ein
+  jumpto:
+    permission: vaccum.jumpto
+    description: Verbinden zu einem Server von einem Spieler

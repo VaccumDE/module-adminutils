@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: bungee.vaccum.api:vBungeeAPI:b29-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/bungee/vaccum/api/vBungeeAPI/b29-SNAPSHOT/vBungeeAPI-b29-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/bungee/vaccum/api/vBungeeAPI/b29-SNAPSHOT/vBungeeAPI-b29-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/bungee/vaccum/api/vBungeeAPI/b29-SNAPSHOT/vBungeeAPI-b29-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

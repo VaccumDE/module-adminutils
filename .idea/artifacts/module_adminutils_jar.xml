@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="module-adminutils:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/module_adminutils_jar</output-path>
+    <root id="archive" name="module-adminutils.jar">
+      <element id="module-output" name="module-adminutils" />
+    </root>
+  </artifact>
+</component>
